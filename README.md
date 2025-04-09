@@ -7,6 +7,7 @@ This is a [Next.js 15](https://nextjs.org/) project bootstrapped with [`create-n
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Docker Setup](#docker-setup)
+- [PM2 Configuration](#pm2-configuration)
 - [Project Structure](#project-structure)
 - [Learn More](#learn-more)
 - [Deploy on Vercel](#deploy-on-vercel)
